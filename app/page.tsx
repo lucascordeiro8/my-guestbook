@@ -44,7 +44,7 @@ export default function Home() {
 
   return (
     <main className="mx-auto max-w-xl p-8">
-      <h1 className="mb-6 text-3xl font-bold">AI Club Guestbook</h1>
+      <h1 className="mb-6 text-3xl font-bold">Lucas' Guestbook</h1>
 
       <form onSubmit={postMessage} className="mb-8 flex flex-col gap-3">
         <input
